@@ -3,7 +3,7 @@
 Companion store for `michaelchaves-dev/Zali_OS`.
 Not a second OS. Not bella_rag. Not a promote path.
 
-- Product stub: `michaelchaves-dev/Zali_OS` (`main` title-only; identity map on `slice/2026-09-26-hourly-identity` @ 6ac3bff)
+- Product stub: `michaelchaves-dev/Zali_OS` (`main` title-only; identity map on `slice/2026-09-26-hourly-identity` @ 264b7cd)
 - Existing trial (do not reinvent): Zali_OS `1pct/2026-09-24-rft-gauntlet` @ 8dd0388
 - Update board: `michaelchaves-dev/bellaOS-Commons` issue #35
 - Skill present here: `skills/curious-compound/SKILL.md` (stance page only; methodology claim stays Commons #25)
@@ -15,7 +15,7 @@ Not a second OS. Not bella_rag. Not a promote path.
 | README bytes | 13 | Title only; pair is invisible |
 | Pointers to Zali_OS | 0 | Product repo unlinked |
 | Pointers to Commons #35 | 0 | Claim lives off-repo |
-| Identity SHA on store map | 6c78e6e (stale) | Product identity moved to 6ac3bff |
+| Identity SHA on store map | 6ac3bff (stale) | Product identity moved to 264b7cd |
 | Extra skills this hour | 0 | Do not add a second skill |
 
 Beat rule: keep this file only if it adds the pair map. Revert if it copies bella_rag, claims #21–#34, or merges to main.
@@ -30,4 +30,4 @@ Beat rule: keep this file only if it adds the pair map. Revert if it copies bell
 
 ## Next legal slice
 
-One file, one metric. Do not add skills already claimed on #21–#34. Do not bump both maps in one hour. RFT scores stay on Zali_OS `1pct/2026-09-24-rft-gauntlet` (`rft/BASELINE.json` mean_reward fail_closed 0.74, n=10).
+One file, one metric. Do not add skills already claimed on #21–#34. Do not bump both maps in one hour. Identity already names this store-map SHA 5fe649e pre-this-commit; after this commit, identity will be stale until a later hour. RFT scores stay on Zali_OS `1pct/2026-09-24-rft-gauntlet` (`rft/BASELINE.json` mean_reward fail_closed 0.74, n=10).
