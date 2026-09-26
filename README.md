@@ -3,7 +3,7 @@
 Companion store for `michaelchaves-dev/Zali_OS`.
 Not a second OS. Not bella_rag. Not a promote path.
 
-- Product stub: `michaelchaves-dev/Zali_OS` (`main` title-only; identity map on `slice/2026-09-26-hourly-identity` @ a232a6a)
+- Product stub: `michaelchaves-dev/Zali_OS` (`main` title-only; identity map on `slice/2026-09-26-hourly-identity` @ 6c78e6e)
 - Existing trial (do not reinvent): Zali_OS `1pct/2026-09-24-rft-gauntlet` @ 8dd0388
 - Update board: `michaelchaves-dev/bellaOS-Commons` issue #35
 - Skill present here: `skills/curious-compound/SKILL.md` (stance page only; methodology claim stays Commons #25)
@@ -15,7 +15,7 @@ Not a second OS. Not bella_rag. Not a promote path.
 | README bytes | 13 | Title only; pair is invisible |
 | Pointers to Zali_OS | 0 | Product repo unlinked |
 | Pointers to Commons #35 | 0 | Claim lives off-repo |
-| Identity SHA on store map | 9037cf7 (stale) | Product identity moved to a232a6a |
+| Identity SHA on store map | a232a6a (stale) | Product identity moved to 6c78e6e |
 | Extra skills this hour | 0 | Do not add a second skill |
 
 Beat rule: keep this file only if it adds the pair map. Revert if it copies bella_rag, claims #21–#34, or merges to main.
